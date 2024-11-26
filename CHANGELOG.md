@@ -1,3 +1,19 @@
+## [1.0.0-dev.47](https://github.com/SebastianWesolowski/s-update-manager/compare/v1.0.0-dev.46...v1.0.0-dev.47) (November 26, 2024)
+
+
+### [SC-93](https://linear.app/wesolowskidev/issue/SC-93)
+
+- 📚 [[SC-93](https://linear.app/wesolowskidev/issue/SC-93)] ️ about gitignore ([fc66d1b](https://github.com/SebastianWesolowski/s-update-manager/commit/fc66d1b5ded20c3729e43044a90629d661a1c183))
+- ✨ [[SC-93](https://linear.app/wesolowskidev/issue/SC-93)] expand default config with sumIgnoreFilePath and sumIgnoreFileName ([cf5e361](https://github.com/SebastianWesolowski/s-update-manager/commit/cf5e3617be7233f7003fb6d895ef8906197f3bf9))
+- ✨ [[SC-93](https://linear.app/wesolowskidev/issue/SC-93)] respect .sumignore ([6c4bffe](https://github.com/SebastianWesolowski/s-update-manager/commit/6c4bffe7ef7c2eb924d78f0ee0ee17bded234f31))
+- 🚨 [[SC-93](https://linear.app/wesolowskidev/issue/SC-93)] init test for ignore file ([572f74e](https://github.com/SebastianWesolowski/s-update-manager/commit/572f74eca916e421832aae035d5d4b0c9474f302))
+
+
+### Other tasks
+
+- 🔧 [] cleanuprepo ([6762d43](https://github.com/SebastianWesolowski/s-update-manager/commit/6762d430f3d0be79097997e7629a73ef2b5ccd4d))
+- 🚨 [] addmicroTemplateandmockProjectToUpdatedmocks ([81ef362](https://github.com/SebastianWesolowski/s-update-manager/commit/81ef362376644cf6ef8cde064f599be3b86e223c))
+
 ## [1.0.0-dev.46](https://github.com/SebastianWesolowski/s-update-manager/compare/v1.0.0-dev.45...v1.0.0-dev.46) (November 18, 2024)
 
 
